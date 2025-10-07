@@ -7,14 +7,24 @@
 </a>
 
 [![Holopin Board](https://holopin.me/dipakhalkude)](https://holopin.io/@dipakhalkude)
-## 📊 GitHub Stats
-![Dipak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipakHalkude&show_icons=true&theme=radical)
 
-## 📝 Merged PRs / Contributions
+## 📝 GitHub Stats
 ![Dipak's merged PRs](https://github-readme-stats.vercel.app/api?username=DipakHalkude&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ## 🛠️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DipakHalkude&layout=compact&theme=radical)
+
+
+## ✅ Merged Pull Requests
+Here are some of my merged open-source contributions:
+
+- [Fix bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
+- [Add declarationPath property for component type declarations (Nuxt)](https://github.com/nuxt/nuxt/pull/33419)
+- [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
+- [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
+- [freeCodeCamp Contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
+
+> *(More contributions coming soon...)*  
 
 ## 🌱 Currently Learning
 - MongoDB & Mongoose
