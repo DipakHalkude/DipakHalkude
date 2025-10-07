@@ -24,7 +24,6 @@
 - Full-Stack MERN Projects
 
 ## 📫 Connect with me
-[![GitHub followers](https://img.shields.io/github/followers/DipakHalkude?style=social)](https://github.com/DipakHalkude)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakhalkude/)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dipak_164399/)
 
