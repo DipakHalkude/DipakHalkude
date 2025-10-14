@@ -25,6 +25,7 @@
 ## ✅ Merged Pull Requests
 Here are some of my merged open-source contributions:
 
+- [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
 - [Add declarationPath property for component type declarations (Nuxt)](https://github.com/nuxt/nuxt/pull/33419)
 - [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
 - [Fix bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
