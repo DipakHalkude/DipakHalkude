@@ -4,6 +4,10 @@
 <a href="https://www.holopin.io/userbadge/cmggbeu5i008il404jtz2jq0f">
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
        alt="Hacktoberfest Badge" height="100"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp"
+       alt="Hacktoberfest Badge" height="100"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp"
+       alt="Hacktoberfest Badge" height="100"/>
 </a>
 
 [![Holopin Board](https://holopin.me/dipakhalkude)](https://holopin.io/@dipakhalkude)
