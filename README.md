@@ -14,6 +14,10 @@
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp"
        alt="Hacktoberfest Badge" height="100"/>
 </a>
+<a href="https://www.holopin.io/userbadge/cmgrqwxjv001bl604grglo32v">
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp"
+       alt="Hacktoberfest Badge" height="100"/>
+</a>
 
 ## 📝 GitHub Stats
 ![Dipak's merged PRs](https://github-readme-stats.vercel.app/api?username=DipakHalkude&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
