@@ -40,7 +40,7 @@ Here are some of my merged open-source contributions:
 > *(More contributions coming soon...)*  
 
 ## 🌱 Currently Learning
-- MongoDB & Mongoose
+- MongoDB
 - Express.js APIs
 - React.js (Advanced Patterns)
 - Node.js Backend Development
