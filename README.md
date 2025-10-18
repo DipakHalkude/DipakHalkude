@@ -37,7 +37,7 @@ Here are some of my merged open-source contributions:
 - [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
 - [freeCodeCamp Contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
 
-> *(More contributions coming soon)*  
+> *(More contributions coming soon...)*  
 
 ## 🌱 Currently Learning
 - Express.js APIs
