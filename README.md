@@ -40,11 +40,11 @@ Here are some of my merged open-source contributions:
 > *(More contributions coming soon...)*  
 
 ## 🌱 Currently Learning
-- MongoDB
 - Express.js APIs
 - React.js (Advanced Patterns)
 - Node.js Backend Development
 - Full-Stack MERN Projects
+- MongoDB
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakhalkude/)  
