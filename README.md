@@ -44,7 +44,7 @@ Here are some of my merged open-source contributions:
 - React.js (Advanced Patterns)
 - Node.js Backend Development
 - Full-Stack MERN Projects
-- MongoDB 
+- MongoDB
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakhalkude/)  
