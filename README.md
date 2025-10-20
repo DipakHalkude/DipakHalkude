@@ -29,6 +29,7 @@
 ## ✅ Merged Pull Requests
 Here are some of my merged open-source contributions:
 
+- [Remove footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
 - [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
 - [Add declarationPath property for component type declarations (Nuxt)](https://github.com/nuxt/nuxt/pull/33419)
 - [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
