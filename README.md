@@ -6,6 +6,10 @@
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" 
        alt="Hacktoberfest Badge" height="100"/>
 </a>
+<a href="https://www.holopin.io/userbadge/cmh10jb4f00v9ih049eb9z8q5">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
+       alt="Hacktoberfest Badge" height="100"/>
+</a>
 <a href="https://www.holopin.io/userbadge/cmgqegges0004l804l8x6m49s">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp"
        alt="Hacktoberfest Badge" height="100"/>
