@@ -60,7 +60,9 @@ Here are some of my merged open-source contributions:
 - Full-Stack MERN Projects
 - MongoDB, Mongoose
 
+## 💻 Languages & Tools
+<p> <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,mysql,python,html,css,git,github,vscode,postman,redux" /> </p>
+
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakhalkude/)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dipak_164399/)
-
