@@ -39,6 +39,7 @@
 ## ✅ Merged Pull Requests
 Here are some of my merged open-source contributions:
 
+- [Display specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
 - [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
 - [Add declarationPath property for component type declarations (Nuxt)](https://github.com/nuxt/nuxt/pull/33419)
 - [Fix bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
