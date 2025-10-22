@@ -41,12 +41,12 @@
 ## ✅ Merged Pull Requests
 Here are some of my merged open-source contributions:
 
-- [correct TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
 - [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
 - [Add declarationPath property for component type declarations (Nuxt)](https://github.com/nuxt/nuxt/pull/33419)
 - [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
 - [Fix bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
 - [Remove footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
+- [correct TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
 - [Remove extra parenthesis from AuthPage](https://github.com/refinedev/refine/pull/7074#event-20239622572)
 - [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
 - [freeCodeCamp Contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
