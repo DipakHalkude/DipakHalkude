@@ -31,12 +31,10 @@
        alt="Hacktoberfest Badge" height="100"/>
 </a>
 
-## 📝 GitHub Stats
-![Dipak's merged PRs](https://github-readme-stats.vercel.app/api?username=DipakHalkude&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-## 🛠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DipakHalkude&layout=compact&theme=radical)
-
+## 📈 GitHub Contribution Streak
+<p><img src="https://github-readme-stats.vercel.app/api?username=DipakHalkude&show_icons=true&theme=radical&hide_border=true" height="400" width="400"/></p>
+<p><img src="https://streak-stats.demolab.com?user=DipakHalkude&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="400" width="400"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakHalkude&layout=compact&theme=radical&hide_border=true" height="400" width="400"/></p>
 
 ## ✅ Merged Pull Requests
 Here are some of my merged open-source contributions:
