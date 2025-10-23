@@ -46,6 +46,7 @@ Here are some of my merged open-source contributions:
 - [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
 - [Fix CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
 - [Remove footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
+- [Update demo video to show V2 interface](https://github.com/rahuldkjain/github-profile-readme-generator/pull/939)
 - [correct TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
 - [Remove extra parenthesis from AuthPage](https://github.com/refinedev/refine/pull/7074#event-20239622572)
 - [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
