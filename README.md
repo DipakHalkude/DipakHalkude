@@ -36,21 +36,20 @@
 <p><img src="https://streak-stats.demolab.com?user=DipakHalkude&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="400" width="400"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakHalkude&layout=compact&theme=radical&hide_border=true" height="400" width="400"/></p>
 
-## ✅ Merged Pull Requests
-Here are some of my merged open-source contributions:
+## 🚀 Open Source Contributions
 
-- [Display specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
-- [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
-- [Add declarationPath property for component type declarations (Nuxt)](https://github.com/nuxt/nuxt/pull/33419)
-- [Fix bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
-- [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
-- [Fix CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
-- [Remove footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
-- [Update demo video to show V2 interface](https://github.com/rahuldkjain/github-profile-readme-generator/pull/939)
-- [correct TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
-- [Remove extra parenthesis from AuthPage](https://github.com/refinedev/refine/pull/7074#event-20239622572)
-- [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
-- [freeCodeCamp Contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
+- **[Twenty]** [Display specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
+- **[Nuxt]** [Add declarationPath property for component type declarations](https://github.com/nuxt/nuxt/pull/33419)
+- **[Meteor]** [Fix bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
+- **[Refine]** [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
+- **[Compiler Explorer]** [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
+- **[Compiler Explorer]** [Fix CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
+- **[Novu]** [Correct TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
+- **[Shields]** [Remove footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
+- **[GitHub Profile Generator]** [Update demo video to show V2 interface](https://github.com/rahuldkjain/github-profile-readme-generator/pull/939)
+- **[Refine]** [Remove extra parenthesis from AuthPage](https://github.com/refinedev/refine/pull/7074)
+- **[IDURAR]** [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
+- **[freeCodeCamp]** [Contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
 
 > *(More contributions coming soon...)*  
 
