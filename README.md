@@ -53,7 +53,7 @@
 - **[GitHub Profile Generator]** [Update demo video to show V2 interface](https://github.com/rahuldkjain/github-profile-readme-generator/pull/939)
 - **[Refine]** [Remove extra parenthesis from AuthPage](https://github.com/refinedev/refine/pull/7074)
 - **[IDURAR]** [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
-- **[freeCodeCamp]** [Adding attribute selector recap to CSS review](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
+- **[FreeCodeCamp]** [Adding attribute selector recap to CSS review](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
 
 > *(More contributions coming soon...)*  
 
