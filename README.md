@@ -38,8 +38,8 @@
 
 ## 🚀 Open Source Contributions
 
-- **[Twenty]** [Display specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
 - **[Nuxt]** [Add declarationPath property for component type declarations](https://github.com/nuxt/nuxt/pull/33419)
+- **[Twenty]** [Display specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
 - **[Meteor]** [Fix bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
 - **[Refine]** [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
 - **[Compiler Explorer]** [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
