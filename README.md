@@ -10,6 +10,10 @@
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
        alt="Hacktoberfest Badge" height="100"/>
 </a>
+<a href="https://www.holopin.io/userbadge/cmhap52sn00onl104bevpjdxz">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
+       alt="Hacktoberfest Badge" height="100"/>
+</a>
 <a href="https://www.holopin.io/userbadge/cmgqegges0004l804l8x6m49s">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp"
        alt="Hacktoberfest Badge" height="100"/>
@@ -28,10 +32,6 @@
 </a>
 <a href="https://www.holopin.io/userbadge/cmh0rost9002tl804kgt34uk5">
   <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp"
-       alt="Hacktoberfest Badge" height="100"/>
-</a>
-<a href="https://www.holopin.io/userbadge/cmhap52sn00onl104bevpjdxz">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
        alt="Hacktoberfest Badge" height="100"/>
 </a>
 
