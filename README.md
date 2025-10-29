@@ -34,6 +34,14 @@
   <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp"
        alt="Hacktoberfest Badge" height="100"/>
 </a>
+<a href="https://www.holopin.io/userbadge/cmhbbi22t006gl804wj3lgkqp">
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp"
+       alt="Hacktoberfest Badge" height="100"/>
+</a>
+<a href="https://www.holopin.io/userbadge/cmhbbiknc004ajr04i4fbzvyj">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
+       alt="Hacktoberfest Badge" height="100"/>
+</a>
 
 ## 📈 GitHub Contribution Streak
 <p><img src="https://github-readme-stats.vercel.app/api?username=DipakHalkude&show_icons=true&theme=radical&hide_border=true" height="400" width="400"/></p>
