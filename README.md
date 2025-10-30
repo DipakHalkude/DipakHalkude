@@ -1,5 +1,15 @@
 # Hi, I'm Dipak Halkude 👋
 
+**Student & Passionate Learner** | Exploring JavaScript, React & MERN Stack
+
+I'm a curious learner diving deep into web development, currently focused on mastering **JavaScript, React, and the MERN stack**. I love building projects while learning new technologies like **TypeScript and Next.js**. Recently contributed to **Nuxt.js core** and participated in **Hacktoberfest 2025** where I earned the **Super Contributor badge**, helped plant trees, and ordered my T-shirt! 🎉
+
+🌱 **Currently Learning:** Advanced JavaScript, React patterns, and backend development  
+🚀 **Exploring:** TypeScript, Next.js, and open-source contributions  
+💡 **Always curious** about new technologies and building meaningful projects  
+
+---
+
 ## 🏆 Hacktoberfest 2025
 
 <a href="https://www.holopin.io/userbadge/cmggbeu5i008il404jtz2jq0f">
