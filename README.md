@@ -8,7 +8,6 @@ I'm a curious learner diving deep into web development, currently focused on mas
 🚀 **Exploring:** TypeScript, Next.js, and open-source contributions  
 💡 **Always curious** about new technologies and building meaningful projects  
 
----
 
 ## 🏆 Hacktoberfest 2025
 
