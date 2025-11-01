@@ -70,7 +70,6 @@ I'm a curious learner diving deep into web development, currently focused on mas
 - **[GitHub Profile Generator]** [Update demo video to show V2 interface](https://github.com/rahuldkjain/github-profile-readme-generator/pull/939)
 - **[Refine]** [Removed extra parenthesis from AuthPage](https://github.com/refinedev/refine/pull/7074)
 - **[FreeCodeCamp]** [Adding attribute selector recap to CSS review](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
-- **[IDURAR]** [UI Improvement in IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm/pull/1290)
 
 > *(More contributions coming soon...)*  
 
