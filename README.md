@@ -46,7 +46,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 <a href="https://www.holopin.io/userbadge/cmhbbiknc004ajr04i4fbzvyj">
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
        alt="Hacktoberfest Badge" height="100"/>
-</a
+</a>
 <a href="https://www.holopin.io/userbadge/cmhbbi22t006gl804wj3lgkqp">
   <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp"
        alt="Hacktoberfest Badge" height="100"/>
