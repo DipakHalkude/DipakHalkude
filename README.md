@@ -4,7 +4,7 @@
 
 I'm a curious learner diving deep into web development, currently focused on mastering **JavaScript, React, and the MERN stack**. I love building projects while learning new technologies like **TypeScript and Next.js**. Recently contributed to **Nuxt.js core** and participated in **Hacktoberfest 2025** where I earned the **Super Contributor badge**, helped plant trees, and ordered my T-shirt! 🎉
 
-🌱 **Currently Learning:** Advanced JavaScript, React patterns, and backend development  
+🌱 **Currently Learning:** Advanced JavaScript, React patterns, backend development, and getting hands-on with PHP basics
 🚀 **Exploring:** TypeScript, Next.js, and open-source contributions  
 💡 **Always curious** About new technologies and building meaningful projects  
 
@@ -81,7 +81,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 - MongoDB, Mongoose
 
 ## 💻 Languages & Tools
-<p> <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,mysql,python,html,css,git,github,vscode,postman,redux" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,mysql,python,php,html,css,git,github,vscode,postman,redux" /> </p>
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakhalkude/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dipak_164399/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dipakdh12345@gmail.com)
