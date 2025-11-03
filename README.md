@@ -84,4 +84,4 @@ I'm a curious learner diving deep into web development, currently focused on mas
 <p> <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,mysql,python,html,css,git,github,vscode,postman,redux" /> </p>
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakhalkude/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dipak_164399/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakhalkude/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dipak_164399/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dipakdh12345@gmail.com)
