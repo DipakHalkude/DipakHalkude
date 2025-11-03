@@ -6,7 +6,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 
 🌱 **Currently Learning:** Advanced JavaScript, React patterns, and backend development  
 🚀 **Exploring:** TypeScript, Next.js, and open-source contributions  
-💡 **Always curious** about new technologies and building meaningful projects  
+💡 **Always curious** About new technologies and building meaningful projects  
 
 
 ## 🏆 Hacktoberfest 2025
