@@ -4,7 +4,7 @@
 
 I'm a curious learner diving deep into web development, currently focused on mastering **JavaScript, React, and the MERN stack**. I love building projects while learning new technologies like **TypeScript and Next.js**. Recently contributed to **Nuxt.js core** and participated in **Hacktoberfest 2025** where I earned the **Super Contributor badge**, helped plant trees, and ordered my T-shirt! 🎉
 
-🌱 **Currently Learning:** Advanced JavaScript, React patterns, backend development, and getting hands-on with PHP basics
+🌱 **Currently Learning:** Advanced JavaScript, React patterns, backend development, and getting hands-on with PHP basics  
 🚀 **Exploring:** TypeScript, Next.js, and open-source contributions  
 💡 **Always curious** About new technologies and building meaningful projects  
 
