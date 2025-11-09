@@ -63,7 +63,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 - **[Twenty]** [Displayed specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
 - **[Meteor]** [Fixed bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
 - **[Refine]** [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
-- **[Compiler Explorer]** [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
+- **[Compiler Explorer]** [Added ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
 - **[Compiler Explorer]** [Fixed CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
 - **[Novu]** [Corrected TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
 - **[Shields]** [Removed footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
