@@ -59,7 +59,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 
 ## 🚀 Open Source Contributions
 
-- **[Nuxt]** [Added declarationPath property for component type declarations - shipped in Nuxt(v4.2)](https://github.com/nuxt/nuxt/pull/33419) | Check it on: [Blog](https://nuxt.com/blog/v4-2)
+- **[Nuxt]** [Adding declarationPath property for component type declarations - shipped in Nuxt(v4.2)](https://github.com/nuxt/nuxt/pull/33419) | Check it on: [Blog](https://nuxt.com/blog/v4-2)
 - **[Twenty]** [Displayed specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
 - **[Meteor]** [Fixed bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
 - **[Refine]** [Enhancement in Refine Framework](https://github.com/refinedev/refine/pull/7031)
