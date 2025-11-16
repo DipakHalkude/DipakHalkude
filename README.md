@@ -66,7 +66,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 - **[Compiler Explorer]** [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
 - **[Compiler Explorer]** [Fixed CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
 - **[Novu]** [Corrected TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
-- **[Shields]** [Removed footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
+- **[Shields]** [Removing footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
 - **[GitHub Profile Generator]** [Updated demo video to show V2 interface](https://github.com/rahuldkjain/github-profile-readme-generator/pull/939)
 - **[Refine]** [Removed extra parenthesis from AuthPage](https://github.com/refinedev/refine/pull/7074)
 - **[FreeCodeCamp]** [Adding attribute selector recap to CSS review](https://github.com/freeCodeCamp/freeCodeCamp/pull/62524)
