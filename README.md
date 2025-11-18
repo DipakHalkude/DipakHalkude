@@ -53,9 +53,10 @@ I'm a curious learner diving deep into web development, currently focused on mas
 </a>
 
 ## 📈 GitHub Contribution Streak
-<p><img src="https://github-readme-stats.vercel.app/api?username=DipakHalkude&show_icons=true&theme=radical&hide_border=true" height="400" width="400"/></p>
-<p><img src="https://streak-stats.demolab.com?user=DipakHalkude&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="400" width="400"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakHalkude&layout=compact&theme=radical&hide_border=true" height="400" width="400"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=DipakHalkude&show_icons=true&theme=radical&hide_border=true&cache_seconds=0" height="400" width="400"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=DipakHalkude&theme=radical&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" height="400" width="400"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakHalkude&layout=compact&theme=radical&hide_border=true&cache_seconds=0" height="400" width="400"/></p>
+
 
 ## 🚀 Open Source Contributions
 
