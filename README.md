@@ -65,7 +65,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 - **[Meteor]** [Fixing bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
 - **[Refine]** [Enhancing in Refine Framework](https://github.com/refinedev/refine/pull/7031)
 - **[Compiler Explorer]** [Adding ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
-- **[Compiler Explorer]** [Fixing CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
+- **[Compiler Explorer]** [Fixed CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
 - **[Novu]** [Correcting TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
 - **[Shields]** [Removing footer dark style to enable theme switching](https://github.com/badges/shields/pull/11431)
 - **[GitHub Profile Generator]** [Updated demo video to show V2 interface](https://github.com/rahuldkjain/github-profile-readme-generator/pull/939)
