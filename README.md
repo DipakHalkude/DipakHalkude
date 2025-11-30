@@ -63,7 +63,7 @@ I'm a curious learner diving deep into web development, currently focused on mas
 - **[Nuxt]** [Adding declarationPath property for component type declarations - shipped in Nuxt(v4.2)](https://github.com/nuxt/nuxt/pull/33419) | Check it on: [Blog](https://nuxt.com/blog/v4-2)
 - **[Twenty]** [Displaying specific action types in workflow side panel tooltips](https://github.com/twentyhq/twenty/pull/15013)
 - **[Meteor]** [Fixing bulk remove issue in Meteor Local Collection](https://github.com/meteor/meteor/pull/13965)
-- **[Refine]** [Enhancing in Refine Framework](https://github.com/refinedev/refine/pull/7031)
+- **[Refine]** [Enhanced in Refine Framework](https://github.com/refinedev/refine/pull/7031)
 - **[Compiler Explorer]** [Added ShareLink to /noscript page](https://github.com/compiler-explorer/compiler-explorer/pull/8193)
 - **[Compiler Explorer]** [Fixed CppReference lookup functionality](https://github.com/compiler-explorer/compiler-explorer/pull/8207)
 - **[Novu]** [Correcting TypeScript types for notification.delete.pending event](https://github.com/novuhq/novu/pull/9325)
